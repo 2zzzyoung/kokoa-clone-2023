@@ -1,2 +1,5 @@
 /screenshots
-*.jpg\n*.jpeg\n
+/cat.jpg
+/dog.jpeg
+/dog2.jpeg
+/dog4.jpeg
