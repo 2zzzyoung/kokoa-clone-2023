@@ -12,6 +12,7 @@
 @import "components/point.css";
 @import "components/icon-row.css";
 @import "components/alt-screen.css";
+@import "components/no-mobile.css";
 
 /* Screens */
 @import "screens/login.css";
