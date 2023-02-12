@@ -11,12 +11,13 @@
   font-weight: 600;
 }
 
-span {
+/* span {
   margin-left: 20px;
-}
+} */
 
 .screen-header__icons span {
   position: relative;
+  margin-left: 18px;
 }
 
 @keyframes rotateGear {

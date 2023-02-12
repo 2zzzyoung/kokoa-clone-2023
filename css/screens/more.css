@@ -3,6 +3,7 @@
   flex-direction: row;
   align-items: center;
   gap: 5px;
+  margin-top: 8px;
 }
 
 .user-component__name i {
@@ -16,6 +17,7 @@
 .user-component__subtitle {
   font-size: 14px;
   color: #b9b9b9;
+  text-align: left;
 }
 
 .more-screen .icon-row {
